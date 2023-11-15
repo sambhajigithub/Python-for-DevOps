@@ -1,2 +1,2 @@
-firstname = input ("please en ter your firstname: ")
+firstname = input ("please enter your firstname: ")
 print ("Hello", firstname)
